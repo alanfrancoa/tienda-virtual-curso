@@ -1,0 +1,22 @@
+p, h5{
+    font-family: cursive;
+    text-align: center;
+}
+
+.botones{
+    display: flex;
+    justify-content: space-around;
+}
+
+.contador{
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 200px;
+    object-fit: cover;
+}
+
+.contenedor{
+    height: 100vh;
+}
